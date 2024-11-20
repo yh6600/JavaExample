@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class ExampleGradeCalc {
 
 	public static void main(String[] args) {
-		// 110 page 24-11-19
+		// 110 page 24-11-19 학점계산기 
 		
 		Scanner scan = new Scanner(System.in);
 		
