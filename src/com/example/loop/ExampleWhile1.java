@@ -1,6 +1,6 @@
 package com.example.loop;
 
-public class ExampleWhile {
+public class ExampleWhile1 {
 
 	public static void main(String[] args) {
 		// 24-11-20 125page
