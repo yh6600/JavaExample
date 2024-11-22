@@ -1,7 +1,7 @@
 package com.example.loop;
 
 
-public class ExampleWhileCalSum {
+public class ExampleWhileCalcSum {
 
 	public static void main(String[] args) {
 		// 24-11-21 

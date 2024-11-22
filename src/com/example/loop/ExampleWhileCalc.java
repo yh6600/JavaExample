@@ -2,7 +2,7 @@ package com.example.loop;
 
 import java.util.Scanner;
 
-public class ExampleWhileCal {
+public class ExampleWhileCalc {
 
 	public static void main(String[] args) {
 		// 24-11-21 

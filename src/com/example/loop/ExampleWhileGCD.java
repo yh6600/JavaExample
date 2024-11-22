@@ -2,7 +2,7 @@ package com.example.loop;
 
 import java.util.Scanner;
 
-public class ExampleWhileCommonDivisor {
+public class ExampleWhileGCD {
 
 	public static void main(String[] args) {
 		// 24.11.21 ,  130page
@@ -10,7 +10,7 @@ public class ExampleWhileCommonDivisor {
 		int x,y,r;
 		System.out.print("두개의 정수 입력 : ");
 		Scanner scan = new Scanner(System.in);
-	
+		
 		x = scan.nextInt();
 		y = scan.nextInt();
 		//x,y 값입력 -> while 조건식 y가 0이 아닐때 문장실행 -> y가 0이 되면 루프 종료 
