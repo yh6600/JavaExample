@@ -1,4 +1,4 @@
-package com.exam.loop;
+package com.example.examloop;
 
 
 public class ExamLotto {
