@@ -1,4 +1,4 @@
-package com.oop.classes1;
+package com.oop.classes;
 
 public class SafeArray {
 	//24.12.09 248page 

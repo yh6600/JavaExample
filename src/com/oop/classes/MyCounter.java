@@ -1,4 +1,4 @@
-package com.oop.classes1;
+package com.oop.classes;
 
 public class MyCounter {
 	

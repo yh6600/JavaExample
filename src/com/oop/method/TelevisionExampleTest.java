@@ -1,4 +1,4 @@
-package com.oop.method1;
+package com.oop.method;
 
 public class TelevisionExampleTest {
 	public static void main(String[] args) {

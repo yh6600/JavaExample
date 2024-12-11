@@ -1,4 +1,4 @@
-package com.oop.string1;
+package com.oop.string;
 
 public class ExampleString {
 
