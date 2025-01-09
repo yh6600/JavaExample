@@ -48,12 +48,25 @@ class Cylinder extends Shape3 {
 public class ShapeTest3 {
 	private static Shape3 arrayOfShapes[];
 	
+	// printLocation * (Shape3 s)  상향 형변환을 이용하는 메소드의 매개 변수 * 
+	public static void printLocation(Shape3 s) { 
+		System.out.println("x = "+s.x+" y ="+s.y);
+	}
+	
 	public static void main(String[] args) {
 		// 25.1.8 341 ~ 2page
 
 		init();
 		drawAll();
 		
+		
+		Rentangle3 s1 = new Rentangle3();
+		Triangle3 s2 = new Triangle3(); 
+		Cricle3 s3 = new Cricle3();
+		
+		printLocation(s1);
+		printLocation(s2);
+		printLocation(s3);
 		/*
 		 *  다형성은 객체들이 같은 메시지 또는 동작을 받더라도 객체의 상황 , 타입에 따라 서로 다른 동작을 하는 것을 의미한다.
 		 	동적 메소드 호출을 했을때 참조변수의 타입은 부모 클래스 이지만 실제 가리키는 객체의 타입은 자식 클래스 이기때문에
